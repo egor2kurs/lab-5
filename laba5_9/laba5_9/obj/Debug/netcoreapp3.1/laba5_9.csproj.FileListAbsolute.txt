@@ -1,0 +1,26 @@
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.exe
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.deps.json
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.runtimeconfig.json
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.runtimeconfig.dev.json
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.dll
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.pdb
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.csprojAssemblyReference.cache
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.AssemblyInfoInputs.cache
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.AssemblyInfo.cs
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.csproj.CoreCompileInputs.cache
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.dll
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.pdb
+D:\лабы\2 курс\ООП\Лабы\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.genruntimeconfig.cache
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.exe
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.deps.json
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.runtimeconfig.json
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.runtimeconfig.dev.json
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.dll
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\bin\Debug\netcoreapp3.1\laba5_9.pdb
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.csprojAssemblyReference.cache
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.AssemblyInfoInputs.cache
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.AssemblyInfo.cs
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.csproj.CoreCompileInputs.cache
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.dll
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.pdb
+C:\Users\KOMP\Desktop\laba5_9\laba5_9\obj\Debug\netcoreapp3.1\laba5_9.genruntimeconfig.cache
